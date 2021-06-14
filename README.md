@@ -8,7 +8,7 @@ Three open source tools to help universities rethink and enhance their local ent
 2. A visual path to understand institution-wide engagement activity ([decision tree](https://github.com/jcransom/flagships/blob/master/Local%20engagement%20decision%20tree.pdf)) ([explanatory notes](https://github.com/jcransom/flagships/blob/master/Decision%20tree%20explanatory%20notes.md))
 3. [Detailed examples](https://github.com/jcransom/flagships/blob/master/extending_engagement_table.md) of how activity can begin, be extended, and be embedded.
 
-Slides presented at the UIIN Conference 2021 here.
+[Download here](https://github.com/jcransom/ncee-tools/raw/master/slides-UIIN-2021.pdf) slides presented at the UIIN Conference 2021.
 
 ## Further information
 
